@@ -1,10 +1,9 @@
 import pandas as pd
 import joblib
 
-from config import *
-from preprocess import clean_data
-from decision_engine import decide
-
+from src.config import *
+from src.preprocess import clean_data
+from src.decision_engine import decide
 
 def load_models():
     state_model = joblib.load(STATE_MODEL_PATH)

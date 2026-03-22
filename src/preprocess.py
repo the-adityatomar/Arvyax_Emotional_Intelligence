@@ -1,6 +1,5 @@
 import pandas as pd
-from config import *
-
+from src.config import *
 
 def clean_data(df):
     df = df.copy()

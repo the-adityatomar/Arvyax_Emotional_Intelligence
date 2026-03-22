@@ -7,8 +7,8 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 
-from config import *
-from preprocess import clean_data
+from src.config import *
+from src.preprocess import clean_data
 
 
 def build_preprocessor():
