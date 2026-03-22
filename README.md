@@ -1,3 +1,13 @@
+---
+title: ArvyaX Emotional Intelligence System
+emoji: 🧠
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: "4.0.0"
+app_file: app.py
+pinned: false
+---
 <<<<<<< HEAD
 # ArvyaX Emotional Intelligence System
 
