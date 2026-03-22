@@ -1,4 +1,15 @@
-<<<<<<< HEAD
+---
+title: ArvyaX Emotional Intelligence System
+emoji: 🧠
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: "4.0.0"
+python_version: "3.10"
+app_file: app.py
+pinned: false
+---
+
 # ArvyaX Emotional Intelligence System
 
 ## Overview
@@ -175,19 +186,3 @@ predictions.csv contains:
 * Lightweight and deployable
 
 ---
-=======
----
-title: Arvyax Emotion System
-emoji: 📈
-colorFrom: gray
-colorTo: green
-sdk: gradio
-sdk_version: 6.9.0
-app_file: app.py
-pinned: false
-license: apache-2.0
-short_description: This project builds an AI system that goes beyond simple pre
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
->>>>>>> 6a6519bc506d5f7b2f218c0ca623fc2be02b3fa1
